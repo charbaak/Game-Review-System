@@ -7,8 +7,8 @@
 * Java Swing 
 
 ### Snapshots
-(/src/1.PNG)
-(/src/3.PNG)
+![snap0](/src/1.PNG)
+![snap1](/src/3.PNG)
 
 
 
